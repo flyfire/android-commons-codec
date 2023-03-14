@@ -1,0 +1,1 @@
+ java -jar ./jarjar-1.4.jar process ./rule.txt ./commons-codec-1.15.jar ./listeneer-commons-codec-1.15.jar

@@ -1,0 +1,3 @@
+rule pattern result
+zap pattern
+rule org.apache.commons.codec.** listeneer.org.apache.commons.codec.@1
